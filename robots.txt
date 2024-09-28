@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lemestoid.github.io/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/app/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/assets/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/css/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/data/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/includes/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/item/sitemap.html.gz
+Sitemap: https://lemestoid.github.io/src/sitemap.html.gz
